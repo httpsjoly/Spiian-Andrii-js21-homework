@@ -1,0 +1,31 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    margin-top: 20px;
+}
+
+form input[type="text"] {
+    width: 50%;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+form button {
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+.note button{
+    border-radius: 5px;
+    margin-left: 5px;
+    padding: 7px 10px;
+}
